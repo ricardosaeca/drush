@@ -1,4 +1,4 @@
-DESCRIPTION 123
+DESCRIPTION
 -----------
 
 Drush is a command line shell and Unix scripting interface for Drupal.  If you are unfamiliar with shell scripting, reviewing the documentation for your shell (e.g. man bash) or reading an online tutorial (e.g. search for "bash tutorial") will help you get the most out of Drush.
